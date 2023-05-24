@@ -1,0 +1,38 @@
+/* input {
+    background-color: blue;
+    width: 300px;
+height: 60px;
+border-radius: 5px;}
+
+input:hover{background-color:aquamarine;}
+
+input:active{background-color: grey;} */
+
+
+
+
+
+
+
+
+#submit{
+
+    border: 1px solid black;
+    padding: 10px;
+    width:200px;
+    height: 40px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+#submit:hover{background-color: green;}
+
+#submit:active{background-color: grey;}
+
+form > button > span {
+    float: right;
+    background-color: rgb(16, 64, 177);
+    padding: .3em;
+    width: 20px;
+    }
